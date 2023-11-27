@@ -1,52 +1,52 @@
 {
-  "WBUI2": {
-    "settings": {
-        "OpenButton": 0,
-        "HideIcon": True,
-        "HideIconAfter": 30,
-        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
-        "DisableIconText": false,
-        "IconPosition": 0,
-        "IconTextColor": 0,
-        "OpenOnStart": true,
-        "OpenOnStartOnlyNewPlayers": true,
-        "UpdateInterval": 12
-      },
-    "tabs": [
-      {
-        "tab1": {
-          "layout": 1,
-          "buttontext": "Welcome",
-          "title1": "Welcome to LazyPanda PvE ARK Ascended Server!",
-          "text1": "The laws of physics, or at least simulated physics are likely going to be the most common laws that you try to break as you cram a stack of metal into your pocket. (And may your backs have mercy upon you.)  Though just for everyone else's enjoyment here are a few other "Laws" to keep in mind.\n\n1. This is a PvE server! There is NO PvP allowed, expect under certain circumstances such as:\n     * Self-defense from someone who is intentionally trying to murder you.\n     * Friendly consented battle \nSo make sure every last turret is turned off or its targeting it adjusted appropriately...  I have accidentally blown away more than one potential friend because I I forgot this.\n\n2. Raiding of ANY type or form is NOT tolerated. DO NOT destroy or steal from other player bases.\n\n3. Be respectful. * Treat others how you would like to be treated. * We all come to escape reality, so please be kind and leave all politics out there. This is a server where community and kindness thrive, so we try to build a supportive community free from hate and toxicity. ANY FORMS of hate speech or actions will NOT be tolerated.\n\n\nNOTE: Server is scheduled to reboot every night at 11:55 pm Central Standard Time.  Please keep this in mind.",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      },
-      {
-        "tab2": {
-          "layout": 2,
-          "buttontext": "Info",
-          "title1": "Event Planning:",
-          "text1": "So I have been tossing around the concept of a Soft PvP event.\n Basically this even would come about with a server reset, and players would break up into tribes.  Each tribe is allowed a Primary Base marked by flags, this base is never to be touched or raided. \n Any other bases out in the wild are fair game, as are enemy tribe members you catch out in the open. \n Griefing is strictly prohibited!",
-          "title2": "Administrators:",
-          "text2": "Ower: Alrick\nAdmin: Mika",
-          "imageurl": "https://i.imgur.com/mGt3cAF.png"
-        }
-      }
-    ],
-    "links": [
-      {
-        "link1": {
-          "text": "Discord",
-          "url": "https://discord.gg/6xEZMrxV6j"
-        }
-      },
-      {
-        "link2": {
-          "text": "Patreon",
-          "url": "https://www.patreon.com/lazypandapve?fan_landing=true"
-        }
-      }      
-    ]
-  }
+    "WBUI2": {
+        "settings": {
+            "OpenButton": 0,
+            "HideIcon": true,
+            "HideIconAfter": 30,
+            "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+            "DisableIconText": false,
+            "IconPosition": 0,
+            "IconTextColor": 0,
+            "OpenOnStart": true,
+            "OpenOnStartOnlyNewPlayers": true,
+            "UpdateInterval": 12
+        },
+        "tabs": [
+            {
+                "tab1": {
+                    "layout": 1,
+                    "buttontext": "Welcome",
+                    "title1": "Welcome to LazyPanda PvE ARK Ascended Server!",
+                    "text1": "The laws of physics, or at least simulated physics are likely going to be the most common laws that you try to break as you cram a stack of metal into your pocket. (And may your backs have mercy upon you.)  Though just for everyone else's enjoyment here are a few other Laws to keep in mind.\n\n1. This is a PvE server! There is NO PvP allowed, expect under certain circumstances such as:\n     * Self-defense from someone who is intentionally trying to murder you.\n     * Friendly consented battle \nSo make sure every last turret is turned off or its targeting it adjusted appropriately...  I have accidentally blown away more than one potential friend because I I forgot this.\n\n2. Raiding of ANY type or form is NOT tolerated. DO NOT destroy or steal from other player bases.\n\n3. Be respectful. * Treat others how you would like to be treated. * We all come to escape reality, so please be kind and leave all politics out there. This is a server where community and kindness thrive, so we try to build a supportive community free from hate and toxicity. ANY FORMS of hate speech or actions will NOT be tolerated.\n\n\nNOTE: Server is scheduled to reboot every night at 11:55 pm Central Standard Time.  Please keep this in mind.",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            },
+            {
+                "tab2": {
+                    "layout": 2,
+                    "buttontext": "Info",
+                    "title1": "Event Planning:",
+                    "text1": "So I have been tossing around the concept of a Soft PvP event.\n Basically this even would come about with a server reset, and players would break up into tribes.  Each tribe is allowed a Primary Base marked by flags, this base is never to be touched or raided. \n Any other bases out in the wild are fair game, as are enemy tribe members you catch out in the open. \n Griefing is strictly prohibited!",
+                    "title2": "Administrators:",
+                    "text2": "Ower: Alrick\nAdmin: Mika",
+                    "imageurl": "https://i.imgur.com/mGt3cAF.png"
+                }
+            }
+        ],
+        "links": [
+            {
+                "link1": {
+                    "text": "Discord",
+                    "url": "https://discord.gg/6xEZMrxV6j"
+                }
+            },
+            {
+                "link2": {
+                    "text": "Patreon",
+                    "url": "https://www.patreon.com/lazypandapve?fan_landing=true"
+                }
+            }
+        ]
+    }
 }
